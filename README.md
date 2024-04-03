@@ -10,3 +10,5 @@
 
 <p align="center">
 <a href="https://github.com/godzenitsu/QUEEN-NEZUKO"><img title="WA BOT" src="https://img.shields.io/badge/QUEEN-NEZUKO-black.svg?style=for-the-badge&logo=github"></a>
+
+https://i.imgur.com/fVrANat.jpeg
