@@ -5,4 +5,5 @@
 
 - 🌱 I’m currently learning **HTML,PYTHON,CSS,NODE**
 
-https://i.imgur.com/Mt93ltE.mp4
+<p align="center">
+<a href="https://github.com/godzenitsu"><img title="Author" src="https://img.shields.io/badge/AUTHOR-GOD ZENITSU-black.svg?style=for-the-badge&logo=github"></a>
