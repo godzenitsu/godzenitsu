@@ -7,3 +7,6 @@
 
 <p align="center">
 <a href="https://github.com/godzenitsu"><img title="Author" src="https://img.shields.io/badge/AUTHOR-GOD ZENITSU-black.svg?style=for-the-badge&logo=github"></a>
+
+<p align="center">
+<a href="https://github.com/godzenitsu/QUEEN-NEZUKO"><img title="WA BOT" src="https://img.shields.io/badge/QUEEN-NEZUKO-MD-black.svg?style=for-the-badge&logo=github"></a>
