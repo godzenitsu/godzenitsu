@@ -8,7 +8,7 @@
 
 - 🧑‍🏫 I'm  **Junior Developer**
 
-- 📖 I’m currently learning **HTML, NODE.JS, CSS**
+- 📖 I’m currently Working on **QUEEN-NEZUKO-MD**
 
 - 🕵️ I’m looking to collaborate with other **WA BOT DEVELOPERS**
 
