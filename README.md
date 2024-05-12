@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/godzenitsu"> <img  alt="Zenitsu's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/godzenitsu?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sataniceypz&label=Profile%20Views&color=ffa500&style=flat" alt="EYPZ" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=godzenitsu&label=Profile%20Views&color=ffa500&style=flat" alt="EYPZ" /> </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 <br>
